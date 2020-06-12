@@ -11,26 +11,31 @@ To calculate the frequency of words, you must:
 - remove "stop words" -- words used so frequently they are ignored
 - go through the file word by word and keep a count of how often each word is used
 
-When your program is complete, you should be able to run `python3 word_frequency.py seneca_falls.txt` and get a printed report like this:
+When your program is complete, you should be able to run `python3 word_frequency.py praise_song_for_the_day.txt` and get a printed report like this:
 
 ```
-     her | 33 *********************************
-     all | 12 ************
-   which | 12 ************
-     she | 7  *******
-   their | 7  *******
-    they | 7  *******
-   right | 6  ******
-  rights | 6  ******
-    such | 6  ******
-    them | 6  ******
+     we | 7 *******
+   each | 5 *****
+     or | 5 *****
+   need | 5 *****
+   love | 5 *****
+  about | 4 ****
+ praise | 4 ****
+   song | 4 ****
+    day | 3 ***
+    our | 3 ***
 ```
 
 ## Starter Files
 
 A starting program is located in `word_frequency.py`.
 
-## Links
+## Resources
 
 * [The `dict` type in Python 3](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
 * [f-strings in Python 3](https://realpython.com/python-f-strings/)
+
+### Bibliography
+
+* [Elizabeth Alexander, _Praise Song for the Day_](https://www.poetryfoundation.org/poems/52141/praise-song-for-the-day)
+* [Richard Blanco, _One Today_](https://poets.org/poem/one-today)

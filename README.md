@@ -32,10 +32,11 @@ A starting program is located in `word_frequency.py`.
 
 ## Resources
 
-* [The `dict` type in Python 3](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
-* [f-strings in Python 3](https://realpython.com/python-f-strings/)
+- [The `dict` type in Python 3](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)
+- [f-strings in Python 3](https://realpython.com/python-f-strings/)
 
 ### Bibliography
 
-* [Elizabeth Alexander, _Praise Song for the Day_](https://www.poetryfoundation.org/poems/52141/praise-song-for-the-day)
-* [Richard Blanco, _One Today_](https://poets.org/poem/one-today)
+- [Elizabeth Alexander, _Praise Song for the Day_](https://www.poetryfoundation.org/poems/52141/praise-song-for-the-day)
+- [Richard Blanco, _One Today_](https://poets.org/poem/one-today)
+- [Amanda Gorman, _The Hill We Climb_](https://en.wikipedia.org/wiki/The_Hill_We_Climb)
